@@ -29,15 +29,9 @@ span {
 
 .fireworks2 {
   position: absolute;
-  left: 100px;
+  top: 450px;
   width: 20%;
 
-}
-
-.fireworks1 {
-  position: absolute;
-  right: 100px;
-  width: 20%;
 }
 
 .countdown-container {
